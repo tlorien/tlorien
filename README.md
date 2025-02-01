@@ -1,7 +1,7 @@
 
 # Hello, I'm Alchen 👋
 
-Welcome to my GitHub space! I'm an aspiring developer with a deep love for coding and all things creative. Here, you'll find projects that span from software solutions to experimental art.
+Welcome to my GitHub space!
 
 ## Technologies & Tools 🔧
 
