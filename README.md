@@ -12,7 +12,7 @@ Hi, thanks for stopping by! I like to make neat things and follow my inspiration
 ## Featured Projects 🌟
 
 <a href="https://github.com/tlorien/LemmyLinks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlorien&repo=ClippyGPT&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlorien&repo=LemmyLinks&theme=dark" />
 </a>
 <a href="https://github.com/tlorien/Unlike-Everything-on-Facebook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlorien&repo=Unlike-Everything-on-Facebook&theme=dark" />
