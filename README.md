@@ -3,8 +3,6 @@
 
 Hi, thanks for stopping by! I like to make neat things and follow my inspiration to weird places. I hope you like.
 
-## Featured Projects 🌟
-
 <a href="https://github.com/tlorien/LemmyLinks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlorien&repo=LemmyLinks&theme=dark" />
 </a>
